@@ -1,38 +1,90 @@
-# Hi there I'm Priyanshu Kumar
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Kumar Priyanshu</h1>
+<h3 align="center">git commit -m "Hello, I'm a CSE student"</h3>
 
-- 🔭 I'm not working currently. I am a student.
-- 🌱 I’m currently learning C++
-- 👯 I’m am not in state of collaborations as my schedule is very packed up.
-- 🤔 I’m looking for help with nothing as I am focusing on my college academics.
-- 💬 Ask me about HTML and CSS.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyanshukumar2003)
-- ⚡ Fun fact: I like when people think they can fool me and in the end they discover someting amazing.
+<p align="left"> <a href="https://twitter.com/kpriyanshu2003" target="blank"><img src="https://img.shields.io/twitter/follow/kpriyanshu2003?logo=twitter&style=for-the-badge" alt="kpriyanshu2003" /></a> </p>
 
-<!--![snake gif](https://github.com/priyanshukumar2003/priyanshukumar2003/raw/output/github-contribution-grid-snake.svg)-->
+- 👨‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/kpriyanshu2003/)
+- 💬 Ask me about `var topics = [ "HTML", "CSS", "C", "C++", "Java" ]`
+- 📫 How to reach me **priyanshukumar.241@protonmail.com**
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1AD4UFSAIq1ryRCeFMuYGZIBySksQLoP9/view?usp=share_link)
 
-<details>
-  <summary>GitHub Stats</summary>
-  <br/>
-<p align="left"><a href="https://github.com/priyashukumar2003"><img src="https://github-profile-trophy.vercel.app/?username=priyanshukumar2003" alt="priyanshukumar2003" /></a> </p>
-</details>
+<!-- ### What are my featured projects:question::rocket:
+<code>[CPP-Marathon](https://github.com/kpriyanshu2003/CPP-Marathon)</code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/>
+<code>[CSS-Marathon](https://github.com/kpriyanshu2003/CSS-Marathon)</code>:mask:
+<code>[GirlScript Twitter Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot)</code>:robot:
 
-<details>
-    <summary>Top Languages</summary>
-    <br/>
-  <p align="left"><a href="https://github.com/priyanshukumar2003"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumar2003" alt="priyanshukumar2003" /></a></p>
-</details>
+### Wanna see my blogs:question::fire:
+<!-- BLOG-POST-LIST:START --
+- [Connect your Chatwoot to Netlify integration in 10 minutes](https://dev.to/chandrikadeb7/connect-your-chatwoot-to-netlify-integration-in-10-minutes-310l)
+- [How my 22 month developer experience at Amdocs shaped my career?](https://medium.com/geekculture/how-my-22-month-developer-experience-at-amdocs-shaped-my-career-77697802a1a2?source=rss-5c8e98221095------2)
+- [Connect your Chatwoot to Netlify integration in 10 minutes](https://medium.com/geekculture/connect-your-chatwoot-to-netlify-integration-in-10-minutes-f75d01a29a73?source=rss-5c8e98221095------2)
+- [SAP Testing Best Practices](https://medium.com/geekculture/sap-testing-best-practices-e4ead283bff9?source=rss-5c8e98221095------2)
+- [Using MDX with Docz Has Never Been This Easy!](https://dev.to/chandrikadeb7/using-mdx-with-docz-has-never-been-this-easy-19b2)
+<!-- BLOG-POST-LIST:END --
 
-### Contribution Graph:
+### What can I help with:question::cyclone:
 
-<p align="center">
-  <a href="https://github.compriyanshukumar2003">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshukumar2003&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<code>git commit -m "All about GitHub!"</code> :grin:
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+<a href="https://dev.to/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/chandrikadeb7/github-profile-readme-generator/chandrikadeb7-devlogo/src/images/icons/Social/devto.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+<a href="https://twitter.com/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandrika-deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
+<a href="https://instagram.com/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+<a href="https://medium.com/@chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chandrikadeb7" height="30" width="40" /></a>
+</p-->
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
   </a>
 </p>
-<!--a href="https://github.com/priyanshukumar2003"><img alt="Priyanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshukumar2003&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a-->
 
-<details>
-  <summary>Activity Metrics</summary>
-  <br/>
-<p align="left"> <a href="https://github.com/priyanshukumar2003"><img src="https://metrics.lecoq.io/priyanshukumar2003?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="priyanshukumar2003" /></a> </p>
-</details>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kpriyanshu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kpriyanshu" /></a></p>
