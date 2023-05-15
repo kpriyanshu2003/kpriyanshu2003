@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/kpriyanshu2003" target="blank"><img src="https://img.shields.io/twitter/follow/kpriyanshu2003?logo=twitter&style=for-the-badge" alt="kpriyanshu2003" /></a> </p>
 
 - 👨‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/kpriyanshu2003/)
-- 💬 Ask me about `var topics = [ "HTML", "CSS", "C", "C++", "Java" ]`
+- 💬 Ask me about `var topics = [ "HTML", "CSS", "Javascript", "C", "C++", "Java", "Python" ]`
 - 📫 How to reach me **priyanshukumar.241@protonmail.com**
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1AD4UFSAIq1ryRCeFMuYGZIBySksQLoP9/view?usp=share_link)
 
