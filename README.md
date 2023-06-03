@@ -10,24 +10,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://kpriyanshu.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/kpriyanshu2003" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:priyanshukumar.241@protonmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://kpriyanshu.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" alt="Website" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/kpriyanshu2003" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:priyanshukumar.241@protonmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/3059/3059989.png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="GIT" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
