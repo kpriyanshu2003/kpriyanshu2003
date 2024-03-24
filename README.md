@@ -5,7 +5,7 @@
 
 - 👨‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/kpriyanshu2003/)
 - 💬 Ask me about `var topics = [ "HTML", "CSS", "Javascript", "C", "C++", "Java", "Python" ]`
-- 📫 How to reach me **priyanshukumar.241@protonmail.com**
+- 📫 How to reach me **kpriyanshu2003@outlook.com**
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1AD4UFSAIq1ryRCeFMuYGZIBySksQLoP9/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
