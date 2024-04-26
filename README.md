@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Kumar Priyanshu</h1>
-<h3 align="center">git commit -m "Hello, I'm a CSE student"</h3>
+<h3 align="center">git commit -m "Hello, I'm a Full Stack Web Developer"</h3>
 
 <p align="left"> <a href="https://twitter.com/kpriyanshu2003" target="blank"><img src="https://img.shields.io/twitter/follow/kpriyanshu2003?logo=twitter&style=for-the-badge" alt="kpriyanshu2003" /></a> </p>
 
-- 👨‍💻 All about me is at [My LinkedIn](https://www.linkedin.com/in/kpriyanshu2003/)
+- 👨‍💻 All about me is at my [LinkedIn](https://www.linkedin.com/in/kpriyanshu2003/)
 - 💬 Ask me about `var topics = [ "HTML", "CSS", "Javascript", "C", "C++", "Java", "Python" ]`
 - 📫 How to reach me **kpriyanshu2003@outlook.com**
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1AD4UFSAIq1ryRCeFMuYGZIBySksQLoP9/view?usp=share_link)
+- 📄 Know about my work & experiences [Resume](https://drive.google.com/file/d/1-zJ2OBriv3l1Y2ih8u6d8L0-rZJt6PNo/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,5 +36,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kpriyanshu2003&show_icons=true&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpriyanshu2003&theme=github_dark_dimmed)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kpriyanshu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kpriyanshu" /></a></p>
+<!-- <h3 align="left">Support:</h3> -->
+<!-- <p><a href="https://www.buymeacoffee.com/kpriyanshu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kpriyanshu" /></a></p> -->
