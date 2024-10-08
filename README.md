@@ -8,7 +8,7 @@
   <h4><code>git commit -m "Hello, I'm a Full Stack Web Developer"</code></h4>
 </div>
 
-####
+#### <!-- Intro -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kpriyanshu2003/" target="blank">
@@ -29,6 +29,8 @@
 - 📄 **Know about my work & experiences:** [resume](https://drive.google.com/file/d/1-zJ2OBriv3l1Y2ih8u6d8L0-rZJt6PNo/view?usp=drive_link)
 - ✒️ **Fun fact:** Always trusting my intuition
 - ☕ Feel Free ... to reach out to me if you have any sort of recommendations ! We will definitely discuss that over a cup of coffee
+
+### I'm Reading
 
 #### <!-- Social -->
 

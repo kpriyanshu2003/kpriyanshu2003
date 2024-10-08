@@ -1,0 +1,44 @@
+name: Update README with Notion Data
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at 12am UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./script
+
+      - name: Run script to update README
+        run: node read-list.js
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        working-directory: ./script
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --exit-code || (
+            git add README.md
+            git commit -m "Update README with Notion Data"
+            git push -u origin main
+          )
+        if: ${{ success() }}
