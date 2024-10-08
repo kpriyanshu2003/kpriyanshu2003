@@ -38,7 +38,7 @@ function generateReadme(databaseEntries) {
 function updateReadme(
   newContent,
   sectionStart = "### I'm Reading",
-  sectionEnd = "#### <!-- Social -->"
+  sectionEnd = "# <!-- Social -->"
 ) {
   let existingContent = "";
 
