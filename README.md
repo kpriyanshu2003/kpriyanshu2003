@@ -32,6 +32,12 @@
 
 ### I'm Reading
 
+- [How to make express.js app 9x faster and typesafe](https://dev.to/encore/how-to-make-your-express-app-9x-faster-and-type-safe-1nd5)
+- [Kubernetes for DevOps Engineer](https://itnext.io/5-advanced-kubernetes-operators-every-devops-engineer-should-know-about-ab46bdc1c7d5)
+- [Use Webpack with Express.JS](https://its-amit.medium.com/how-to-make-build-for-express-js-node-js-using-webpack-and-deployment-on-docker-9cd219ba24a2)
+- [Video Streaming With Node.JS](https://medium.com/@HoseungJang/video-streaming-with-node-js-9401213a04e7)
+- [Server Driven UI](https://medium.com/swlh/server-driven-ui-and-some-herbs-f17f01aa7794)
+
 #### <!-- Social -->
 
 <div align="left">
