@@ -32,6 +32,16 @@
 
 ### I'm Reading
 
+- [CSRF Token in Express](https://medium.com/@jordanmoore753/how-to-implement-csrf-tokens-in-express-f867c9e95af0?source=email-39976638fc9d-1668980596862-digest.reader-5517fd7b58a6-f867c9e95af0----2-59------------------7cdd01ec_ac5d_4083_aaab_0f1b100bf54b-29)
+- [Instagram System Design](https://medium.com/@nikhilgupta1/instagram-system-design-f62772649f90?source=email-39976638fc9d-1668980596862-digest.reader--f62772649f90----2-98------------------7cdd01ec_ac5d_4083_aaab_0f1b100bf54b-1)
+- [SSL / TLS for beginners](https://dev.to/danielhe4rt/database-101-ssltls-for-beginners-4lmn?context=digest&ahoy_click=true&t=lhMgCScjkCvoAM0xyELYGFJTj8nYtkJM&s=FrJKHHIfaR2mgc8V-F4N7aPiQCSugAMVbPFyZnyDzaY&u=https%253A%252F%252Fdev.to%252Fdanielhe4rt%252Fdatabase-101-ssltls-for-beginners-4lmn%253Fcontext%253Ddigest)
+- [Consistent on LinkedIn for 100 days](https://medium.com/@realalexnguyen/i-wrote-on-linkedin-for-100-days-now-i-never-have-to-worry-about-finding-a-job-bf785d00341c?source=email-39976638fc9d-1728251246579-digest.reader--bf785d00341c----0-73------------------9c26ebce_74c0_4014_a953_6f9933105393-1)
+- [SSH Question - AWS Interview](https://aws.plainenglish.io/i-have-asked-this-ssh-question-in-every-aws-interview-and-heres-the-catch-ee2013a83e99)
+- [Typescript required to be a good developer](https://medium.com/@s.chandrakethan9/this-is-how-much-typescript-you-need-to-know-as-a-react-developer-74947fc130a0)
+- [Implement webhook in isr in next.js](https://medium.com/@biplavmazumdar5/how-to-implement-webhook-in-isr-using-next-js-b2f4f6b225a0)
+- [gRPC vs REST API](https://betterprogramming.pub/grpc-vs-rest-comparing-api-styles-in-practice-28d2a7c9a349)
+- [Uber Interview Questions with Expert Answers](https://blog.stackademic.com/uber-frontend-interview-questions-with-expert-answers-d11868e9dc9e)
+- [Enhance website security with Cliudflare’s security.txt](https://blog.cloudflare.com/security-txt)
 - [How to make express.js app 9x faster and typesafe](https://dev.to/encore/how-to-make-your-express-app-9x-faster-and-type-safe-1nd5)
 - [Kubernetes for DevOps Engineer](https://itnext.io/5-advanced-kubernetes-operators-every-devops-engineer-should-know-about-ab46bdc1c7d5)
 - [Use Webpack with Express.JS](https://its-amit.medium.com/how-to-make-build-for-express-js-node-js-using-webpack-and-deployment-on-docker-9cd219ba24a2)
