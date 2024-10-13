@@ -32,6 +32,8 @@
 
 ### I'm Reading
 
+- [MlOps pipeline using dagger io](https://dev.to/kitops/building-an-mlops-pipeline-with-daggerio-and-kitops-566m)
+- [Swarm by Open AI](https://analyticsindiamag.com/ai-news-updates/openai-introduces-swarm-a-framework-for-building-multi-agent-systems/)
 - [CSRF Token in Express](https://medium.com/@jordanmoore753/how-to-implement-csrf-tokens-in-express-f867c9e95af0?source=email-39976638fc9d-1668980596862-digest.reader-5517fd7b58a6-f867c9e95af0----2-59------------------7cdd01ec_ac5d_4083_aaab_0f1b100bf54b-29)
 - [Instagram System Design](https://medium.com/@nikhilgupta1/instagram-system-design-f62772649f90?source=email-39976638fc9d-1668980596862-digest.reader--f62772649f90----2-98------------------7cdd01ec_ac5d_4083_aaab_0f1b100bf54b-1)
 - [SSL / TLS for beginners](https://dev.to/danielhe4rt/database-101-ssltls-for-beginners-4lmn?context=digest&ahoy_click=true&t=lhMgCScjkCvoAM0xyELYGFJTj8nYtkJM&s=FrJKHHIfaR2mgc8V-F4N7aPiQCSugAMVbPFyZnyDzaY&u=https%253A%252F%252Fdev.to%252Fdanielhe4rt%252Fdatabase-101-ssltls-for-beginners-4lmn%253Fcontext%253Ddigest)
