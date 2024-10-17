@@ -32,6 +32,7 @@
 
 ### I'm Reading
 
+- [Self hosting a container registry ](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/)
 - [Proxmox if you are a coder - XDA](https://www.xda-developers.com/proxmox-projects-for-coders/)
 - [MLOps pipeline using dagger io](https://dev.to/kitops/building-an-mlops-pipeline-with-daggerio-and-kitops-566m)
 - [Swarm by Open AI](https://analyticsindiamag.com/ai-news-updates/openai-introduces-swarm-a-framework-for-building-multi-agent-systems/)
