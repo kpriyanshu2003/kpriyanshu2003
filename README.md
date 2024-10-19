@@ -32,6 +32,7 @@
 
 ### I'm Reading
 
+- [Docker Terraform Provider](https://www.docker.com/blog/docker-terraform-provider/)
 - [Self hosting a container registry ](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/)
 - [Proxmox if you are a coder - XDA](https://www.xda-developers.com/proxmox-projects-for-coders/)
 - [MLOps pipeline using dagger io](https://dev.to/kitops/building-an-mlops-pipeline-with-daggerio-and-kitops-566m)
