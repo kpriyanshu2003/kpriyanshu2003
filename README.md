@@ -32,6 +32,7 @@
 
 ### I'm Reading
 
+- [Proxy Design Pattern](https://dev.to/srishtikprasad/proxy-design-pattern-4mm)
 - [Docker Terraform Provider](https://www.docker.com/blog/docker-terraform-provider/)
 - [Self hosting a container registry ](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/)
 - [Proxmox if you are a coder - XDA](https://www.xda-developers.com/proxmox-projects-for-coders/)
