@@ -32,6 +32,7 @@
 
 ### I'm Reading
 
+- [Docker Container for Document Signing ](https://mariushosting.com/synology-best-docker-containers-for-document-signing/)
 - [Proxy Design Pattern](https://dev.to/srishtikprasad/proxy-design-pattern-4mm)
 - [Docker Terraform Provider](https://www.docker.com/blog/docker-terraform-provider/)
 - [Self hosting a container registry ](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/)
