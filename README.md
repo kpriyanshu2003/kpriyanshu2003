@@ -32,7 +32,6 @@
 
 ### I'm Reading
 
-- [Web Assembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - [Jeff Geerling’s Blog](https://www.jeffgeerling.com/blog)
 - [SOLID Principles in JS and TS](https://dev.to/wafa_bergaoui/applying-solid-principles-in-javascript-and-typescript-framework-2d1d?context=digest&ahoy_click=true&t=zcKf3HEX7nYwX9ogmok1jp2mgHqTjaTY&s=ylLT-NMVeY0h_SHZg_Urx8SSNw0LDThexfWjm2gKisc&u=https%253A%252F%252Fdev.to%252Fwafa_bergaoui%252Fapplying-solid-principles-in-javascript-and-typescript-framework-2d1d%253Fcontext%253Ddigest)
 - [Run a VM in browser](https://dev.us12.list-manage.com/track/click?u=85076d6fb7eea423ec9b0de34&id=50b5e106a2&e=d1b050f2c0)
@@ -66,7 +65,6 @@
 - [Implement webhook in isr in next.js](https://medium.com/@biplavmazumdar5/how-to-implement-webhook-in-isr-using-next-js-b2f4f6b225a0)
 - [gRPC vs REST API](https://betterprogramming.pub/grpc-vs-rest-comparing-api-styles-in-practice-28d2a7c9a349)
 - [Uber Interview Questions with Expert Answers](https://blog.stackademic.com/uber-frontend-interview-questions-with-expert-answers-d11868e9dc9e)
-- [Enhance website security with Cliudflare’s security.txt](https://blog.cloudflare.com/security-txt)
 - [How to make express.js app 9x faster and typesafe](https://dev.to/encore/how-to-make-your-express-app-9x-faster-and-type-safe-1nd5)
 - [Kubernetes for DevOps Engineer](https://itnext.io/5-advanced-kubernetes-operators-every-devops-engineer-should-know-about-ab46bdc1c7d5)
 - [Use Webpack with Express.JS](https://its-amit.medium.com/how-to-make-build-for-express-js-node-js-using-webpack-and-deployment-on-docker-9cd219ba24a2)
