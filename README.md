@@ -41,7 +41,6 @@
 - [Understanding Different Web Server](https://ritiksharmaaa.hashnode.dev/understanding-wsgi-asgi-http-and-web-servers-clarifying-the-confusion)
 - [Coding Question in Interviews](https://medium.com/@carloarg02/my-favorite-coding-question-to-give-candidates-17ea4758880c?source=email-b4752b7fc840-1729203067694-digest.reader--17ea4758880c----5-102------------------90a1a0f9_6217_4824_94d6_2ce27e1dd9d5-1)
 - [Backend Interview Questions](https://medium.com/@zlliu/backend-interview-qn-which-data-structure-does-sql-tables-use-to-store-data-46318c75f577?source=email-b4752b7fc840-1729289280936-digest.reader-5517fd7b58a6-46318c75f577----1-109------------------eaed2166_9d2b_404a_b73c_4df253e86fab-1)
-- [ANTIRTOS](https://hackaday.com/2024/10/15/antirtos-no-rtos-needed/)
 - [How UUIDs destroy databases](https://medium.com/@dc0/stop-using-uuids-in-your-database-aae9d5d47549?source=email-b4752b7fc840-1729375530237-digest.reader--aae9d5d47549----9-109------------------d782cad0_4828_446e_b5cf_2baf47b607fa-1)
 - [Fine Tuned Tiny Llama 3.2](https://medium.com/@thuwarakesh/i-fine-tuned-the-tiny-llama-3-2-1b-to-replace-gpt-4o-7ce1e5619f3d?source=email-b4752b7fc840-1729375530237-digest.reader-7f60cf5620c9-7ce1e5619f3d----8-109------------------d782cad0_4828_446e_b5cf_2baf47b607fa-1)
 - [MVP is over. Think abt MVE](https://medium.com/@petesena/mvp-is-over-you-need-to-think-about-mve-5a87bc7ca2ef?source=email-b4752b7fc840-1729375530237-digest.reader-7adf33e44ae3-5a87bc7ca2ef----0-102------------------d782cad0_4828_446e_b5cf_2baf47b607fa-1)
