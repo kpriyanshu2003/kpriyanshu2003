@@ -32,6 +32,7 @@
 
 ### I'm Reading
 
+- [Docker Blogs](https://www.docker.com/blog/category/engineering/)
 - [Notion Tech Blogs](https://www.notion.so/blog/topic/tech)
 - [Jeff Geerling’s Blog](https://www.jeffgeerling.com/blog)
 - [SOLID Principles in JS and TS](https://dev.to/wafa_bergaoui/applying-solid-principles-in-javascript-and-typescript-framework-2d1d?context=digest&ahoy_click=true&t=zcKf3HEX7nYwX9ogmok1jp2mgHqTjaTY&s=ylLT-NMVeY0h_SHZg_Urx8SSNw0LDThexfWjm2gKisc&u=https%253A%252F%252Fdev.to%252Fwafa_bergaoui%252Fapplying-solid-principles-in-javascript-and-typescript-framework-2d1d%253Fcontext%253Ddigest)
