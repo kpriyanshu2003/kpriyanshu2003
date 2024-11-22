@@ -32,6 +32,7 @@
 
 ### I'm Reading
 
+- [JWT auth in GO](https://blog.logrocket.com/jwt-authentication-go/)
 - [Rate Limiting go api using redis](https://dev.to/pradumnasaraf/rate-limiting-a-golang-api-using-redis-ogi)
 - [Step by Step WASM](https://thenewstack.io/step-by-step-guide-to-using-webassembly-for-faster-web-apps/)
 - [Web VM 2.0](https://labs.leaningtech.com/blog/webvm-20)
