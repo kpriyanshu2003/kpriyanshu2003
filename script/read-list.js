@@ -1,13 +1,9 @@
 import fs from "fs";
-import path from "path";
 import { Client } from "@notionhq/client";
 
-const notion = new Client({
-  auth: process.env.NOTION_API_KEY || "",
-});
-const databaseId = process.env.NOTION_DATABASE_ID || "";
-
 const readmePath = "../README.md";
+const databaseId = process.env.NOTION_DATABASE_ID || "";
+const notion = new Client({ auth: process.env.NOTION_API_KEY || "" });
 
 async function fetchDatabase() {
   try {
@@ -20,22 +16,30 @@ async function fetchDatabase() {
 }
 
 function generateReadme(databaseEntries) {
-  let readmeContent = ``;
+  let outerBlogs = ``;
+  let innerBlogs = ``;
+
   databaseEntries.forEach((entry) => {
     if (!entry.properties.Private.checkbox && !entry.properties[""].checkbox) {
       const title = entry.properties.Title.title[0].plain_text;
       const url = entry.properties.URL.url;
-      readmeContent += `- [${title}](${url})\n`;
+
+      const blogEntry = `- [${title}](${url})${
+        entry.properties.Paywall.checkbox ? "🔒" : ""
+      }\n`;
+      if (entry.properties.Priority.checkbox) outerBlogs += blogEntry;
+      else innerBlogs += blogEntry;
     }
   });
 
-  return readmeContent;
+  // return `${outerBlogs}\n\n#### Other Blogs\n${innerBlogs}`;
+  return `${outerBlogs}<details><summary>\n<h4>More to read</h4></summary>\n\n${innerBlogs}</details>\n`;
 }
 
 function updateReadme(
   newContent,
   sectionStart = "### I'm Reading",
-  sectionEnd = "# <!-- Social -->"
+  sectionEnd = "<!-- Social -->"
 ) {
   let existingContent = "";
 
@@ -73,17 +77,18 @@ function updateReadme(
     databaseEntries.length === 0
       ? "No entries found in the Notion database."
       : "Entries found in the Notion database.";
+
   const readmeContent =
     databaseEntries.length === 0
       ? "Nothing here yet!"
       : generateReadme(databaseEntries);
 
   const updated = updateReadme(readmeContent);
+
   const updateMessage = updated
     ? "README.md has been updated with new content from Notion!"
     : "No changes in content, README.md was not updated.";
 
   console.log(entryMessage);
   console.log(updateMessage);
-  process.exit(updated ? 0 : 1);
 })();

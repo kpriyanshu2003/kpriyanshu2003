@@ -32,13 +32,14 @@ jobs:
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         working-directory: ./script
 
-      - name: Commit and push changes
+      - name: Commit and push changes if needed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --exit-code || (
+          if [ -n "$(git status --porcelain)" ]; then
             git add README.md
             git commit -m "Update README with Notion Data"
             git push -u origin main
-          )
-        if: ${{ success() }}
+          else
+            echo "No changes detected, skipping commit."
+          fi
