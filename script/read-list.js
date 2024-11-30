@@ -3,12 +3,9 @@ import path from "path";
 import { Client } from "@notionhq/client";
 
 const notion = new Client({
-  auth:
-    process.env.NOTION_API_KEY ||
-    "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",
+  auth: process.env.NOTION_API_KEY || "",
 });
-const databaseId =
-  process.env.NOTION_DATABASE_ID || "1139c8852c6680619edae4dadaf01615";
+const databaseId = process.env.NOTION_DATABASE_ID || "";
 
 const readmePath = "../README.md";
 
