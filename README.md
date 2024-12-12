@@ -24,11 +24,11 @@
 
 # <!-- Introduction -->
 
-- 💬 **Ask me about:** `var topics = [ "HTML", "CSS", "Javascript", "C", "C++", "Java", "Python" ]`
+- 💬 **Ask me about:** `var topics = [ "HTML", "CSS", "Javascript", "C++", "Java", "Go" ]`
 - 📫 **How to reach me:** [kpriyanshu2003@outlook.com](mailto:kpriyanshu2003@outlook.com)
 - 📄 **Know about my work & experiences:** [resume](./resources/resume_kumar_priyanshu.pdf)
 - ✒️ **Fun fact:** Always trusting my intuition
-- ☕ **Feel Free ...** to reach out to me if you have any sort of recommendations ! We will definitely discuss that over a cup of coffee
+<!-- ☕ **Feel Free ...** to reach out to me if you have any sort of recommendations ! We will definitely discuss that over a cup of coffee -->
 
 ### I'm Reading
 
@@ -37,9 +37,6 @@ Nothing here yet!
 
 <div align="center">
   <h3>Connect with me:</h3>
-    <a href="https://kaggle.com/kpriyanshu2003" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Kaggle" />
-  </a>
   <a href="https://hashnode.com/@kpriyanshu" target="blank">
     <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=00B89F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Hashnode" />
   </a>
@@ -51,6 +48,9 @@ Nothing here yet!
   </a>
   <a href="https://www.hackerrank.com/profile/kpriyanshu2003" target="blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=1AB039&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="HackerRank" />
+  </a>
+  <a href="https://kaggle.com/kpriyanshu2003" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Kaggle" />
   </a>
 </div>
 
@@ -70,6 +70,7 @@ Nothing here yet!
 <img src="https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Firebase logo" />
 <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Figma logo" />
 <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Git logo" />
+<img src="https://img.shields.io/static/v1?message=Go&logo=go&label=&color=00ADD8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Go logo" />
 <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HTML logo" />
 <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Java logo" />
 <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="JavaScript logo" />
