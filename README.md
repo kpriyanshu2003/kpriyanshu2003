@@ -36,8 +36,11 @@
 - [Docker Blogs](https://www.docker.com/blog/category/engineering/)
 - [Notion Tech Blogs](https://www.notion.so/blog/topic/tech)
 - [Jeff Geerling’s Blog](https://www.jeffgeerling.com/blog)
+- [How UUIDs destroy databases](https://medium.com/@dc0/stop-using-uuids-in-your-database-aae9d5d47549?source=email-b4752b7fc840-1729375530237-digest.reader--aae9d5d47549----9-109------------------d782cad0_4828_446e_b5cf_2baf47b607fa-1)🔒
+- [How does Kafka Work ](https://dev.to/somadevtoo/how-does-apache-kafka-work-why-is-kafka-so-fast-463i)
 - [CloudFlare Blogs](https://blog.cloudflare.com)
 - [Design Pattern](https://dev.to/srishtikprasad/proxy-design-pattern-4mm)
+- [How to make express.js app 9x faster and typesafe](https://dev.to/encore/how-to-make-your-express-app-9x-faster-and-type-safe-1nd5)
 <details><summary>
 <h4>More to read</h4></summary>
 
@@ -55,9 +58,7 @@
 - [Understanding Different Web Server](https://ritiksharmaaa.hashnode.dev/understanding-wsgi-asgi-http-and-web-servers-clarifying-the-confusion)
 - [Coding Question in Interviews](https://medium.com/@carloarg02/my-favorite-coding-question-to-give-candidates-17ea4758880c?source=email-b4752b7fc840-1729203067694-digest.reader--17ea4758880c----5-102------------------90a1a0f9_6217_4824_94d6_2ce27e1dd9d5-1)
 - [Backend Interview Questions](https://medium.com/@zlliu/backend-interview-qn-which-data-structure-does-sql-tables-use-to-store-data-46318c75f577?source=email-b4752b7fc840-1729289280936-digest.reader-5517fd7b58a6-46318c75f577----1-109------------------eaed2166_9d2b_404a_b73c_4df253e86fab-1)🔒
-- [How UUIDs destroy databases](https://medium.com/@dc0/stop-using-uuids-in-your-database-aae9d5d47549?source=email-b4752b7fc840-1729375530237-digest.reader--aae9d5d47549----9-109------------------d782cad0_4828_446e_b5cf_2baf47b607fa-1)🔒
 - [Name Colors in Design Systems](https://medium.com/@felixoginni/how-to-name-colors-in-design-systems-976657e12b57?source=email-b4752b7fc840-1729460643538-digest.reader-138adf9c44c-976657e12b57----3-108------------------5263ab9f_6f4f_46e0_a32c_529d71b88327-1)🔒
-- [How does Kafka Work ](https://dev.to/somadevtoo/how-does-apache-kafka-work-why-is-kafka-so-fast-463i)
 - [Express - Go](https://dev.to/brunociccarino/how-i-wrote-express-go-in-19-hours-3ndh)
 - [Docker Terraform Provider](https://www.docker.com/blog/docker-terraform-provider/)
 - [Self hosting a container registry ](https://www.freecodecamp.org/news/how-to-self-host-a-container-registry/)
@@ -68,10 +69,8 @@
 - [SSL / TLS for beginners](https://dev.to/danielhe4rt/database-101-ssltls-for-beginners-4lmn?context=digest&ahoy_click=true&t=lhMgCScjkCvoAM0xyELYGFJTj8nYtkJM&s=FrJKHHIfaR2mgc8V-F4N7aPiQCSugAMVbPFyZnyDzaY&u=https%253A%252F%252Fdev.to%252Fdanielhe4rt%252Fdatabase-101-ssltls-for-beginners-4lmn%253Fcontext%253Ddigest)
 - [Consistent on LinkedIn for 100 days](https://medium.com/@realalexnguyen/i-wrote-on-linkedin-for-100-days-now-i-never-have-to-worry-about-finding-a-job-bf785d00341c?source=email-39976638fc9d-1728251246579-digest.reader--bf785d00341c----0-73------------------9c26ebce_74c0_4014_a953_6f9933105393-1)
 - [SSH Question - AWS Interview](https://aws.plainenglish.io/i-have-asked-this-ssh-question-in-every-aws-interview-and-heres-the-catch-ee2013a83e99)
-- [Implement webhook in isr in next.js](https://medium.com/@biplavmazumdar5/how-to-implement-webhook-in-isr-using-next-js-b2f4f6b225a0)🔒
 - [gRPC vs REST API](https://betterprogramming.pub/grpc-vs-rest-comparing-api-styles-in-practice-28d2a7c9a349)
 - [Uber Interview Questions with Expert Answers](https://blog.stackademic.com/uber-frontend-interview-questions-with-expert-answers-d11868e9dc9e)
-- [How to make express.js app 9x faster and typesafe](https://dev.to/encore/how-to-make-your-express-app-9x-faster-and-type-safe-1nd5)
 - [Kubernetes for DevOps Engineer](https://itnext.io/5-advanced-kubernetes-operators-every-devops-engineer-should-know-about-ab46bdc1c7d5)
 - [Use Webpack with Express.JS](https://its-amit.medium.com/how-to-make-build-for-express-js-node-js-using-webpack-and-deployment-on-docker-9cd219ba24a2)
 - [Video Streaming With Node.JS](https://medium.com/@HoseungJang/video-streaming-with-node-js-9401213a04e7)
