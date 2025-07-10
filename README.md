@@ -78,6 +78,7 @@
 
 <div align="center">
   <h3>Connect with me:</h3>
+  <div style="display:flex; align-items:center; justify-content: center; width: 100%;">
   <a href="https://hashnode.com/@kpriyanshu" target="blank">
     <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=00B89F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Hashnode" />
   </a>
@@ -93,6 +94,7 @@
   <a href="https://kaggle.com/kpriyanshu2003" target="blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Kaggle" />
   </a>
+  </div>
 </div>
 
 #### <!-- Skills -->
