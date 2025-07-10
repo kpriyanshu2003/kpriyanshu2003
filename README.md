@@ -10,17 +10,15 @@
 
 # <!-- Intro -->
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kpriyanshu2003/" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:kpriyanshu2003@outlook.com" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=Microsoft&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://twitter.com/kpriyanshu2003" target="blank">
-    <img src="https://img.shields.io/static/v1?message=X ( Twitter )&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
+
+<div align='center'>
+  
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/kpriyanshu2003/)
+[![Mail](https://img.shields.io/static/v1?message=Email&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](mailto:kpriyanshu2003@outlook.com)
+[![X](https://img.shields.io/static/v1?message=X&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.x.com/in/kpriyanshu2003/)
+
 </div>
+
 
 # <!-- Introduction -->
 
