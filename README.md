@@ -11,14 +11,13 @@
 # <!-- Intro -->
 
 
-<div align='center'>
+<div style="display:flex; align-items:center; justify-content: center; width: 100%;" align="center">
   
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/kpriyanshu2003/)
 [![Mail](https://img.shields.io/static/v1?message=Email&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](mailto:kpriyanshu2003@outlook.com)
 [![X](https://img.shields.io/static/v1?message=X&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.x.com/in/kpriyanshu2003/)
 
 </div>
-
 
 # <!-- Introduction -->
 
